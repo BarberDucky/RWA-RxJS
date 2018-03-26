@@ -1,7 +1,8 @@
 Drugi projekat sa casova RWA - RxJS
 
 Za instalaciju RxJS-a:
--npm i --save rxjs
+
+npm i --save rxjs
 
 Za pokretanje:
 
